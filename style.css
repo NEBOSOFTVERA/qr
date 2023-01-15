@@ -23,7 +23,7 @@ h1 {
 
 div.gallery {
   background-color: white;
-    margin: 30px;
+    margin: 10px;
     float: left;
     width: 250px;
     height: 100px;
@@ -38,7 +38,7 @@ div.gallery {
  a {
   background: linear-gradient(-45deg,#4158D0,#e560dc,#ffb374,#ef5f5f,#d840b6);
   padding: 5px;
-  box-shadow: 3px 3px 3px;
+  box-shadow: 3px 3px 3px black;
  }
  
  i {
